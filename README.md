@@ -10,8 +10,8 @@ Merci de votre compréhension.
 
 ***
 
-Une bêta publique sera bientôt disponible afin de voir les nouveautés.
+Bêta publique : https://1drv.ms/x/s!AixH1AFZmSz5kAlVQXji-UEqHEqF?e=dLJOYN.
 
-Celle-ci ne contiendra pas les données mais **uniquement les en-têtes et et les feuilles de calculs**.
+Celle-ci ne contient pas les données mais **uniquement les en-têtes et et les feuilles de calculs**.
 
 Cette bêta reste sujette à des modifications.
