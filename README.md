@@ -12,6 +12,10 @@ Merci de votre compréhension.
 
 Bêta publique : https://1drv.ms/x/s!AixH1AFZmSz5kAlVQXji-UEqHEqF?e=dLJOYN.
 
-Celle-ci ne contient pas les données mais **uniquement les en-têtes et les feuilles de calculs**.
+Celle-ci **ne contient pas toutes les informations**.
 
 Cette bêta reste sujette à des modifications.
+
+***
+
+Je vise une date de sortie proche du dimanche 22 août.
